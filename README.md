@@ -6,10 +6,8 @@
 ---
 
 ## Quick Links
-- **Whitepaper:** WHITEPAPER.md
-- **Templates:** templates/pod-charter.md; templates/adr-tempate.md
-- **Examples:** examples/reference-implementation
-- **License:** LICENSE
+- **Whitepaper:** [WHITEPAPER.md](WHITEPAPER.md)
+- **License:** [LICENSE](LICENSE)
 
 ---
 

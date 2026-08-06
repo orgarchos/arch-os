@@ -12,6 +12,6 @@
 ---
 
 ## What is ARCH OS
-ARCH OS is a leadership operating system for founders, product leaders, and technical executives navigating the AI era. It integrates **Alignment Architecture**, **Rythic Workflows**, **Capacity Intelligence**, and **Horizon Management** into a single & simple practical operating system for teams and platforms.
+ARCH OS is a leadership operating system for founders, product leaders, and technical executives navigating the AI era. It integrates **Alignment Architecture**, **Rhythmic Workflows**, **Capacity Intelligence**, and **Horizon Management** into a single & simple practical operating system for teams and platforms.
 
 

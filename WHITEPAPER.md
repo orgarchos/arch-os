@@ -29,9 +29,9 @@ There are four systemic failures ARCH OS addresses:
 - **Capacity collapse:** Human load (on-calls, escalations, context switching), technical load (tech debt, system stability, elasticity limits) stay invisible until its an incident, a resignation or a missed commitment.
 - **Roadmaps disconnected from reality:** Without a disciplined link back to validated customer signal, a roadmap drifts into a wishlist, optimized for a preference, a loudest internal voice rather than the most valuable outcome.
 
-ARCH integrates principles from [Team Topologies](https://github.com/teamtopologies) to create fast flow, predictable collaboration, and sustainable performance.
+ARCH OS integrates principles from [Team Topologies](https://github.com/teamtopologies) to create fast flow, predictable collaboration, and sustainable performance.
 
-ARCH is the operating system that connects 
+ARCH OS is the operating system that connects 
 > customer present → product future → platform stability → organizational capacity
 
 With this, customer's current signals (support tickets, sales notes, root cause analysis documents, usage data) is synthesized into product decisions about the future; now holistically evaluated with the right direction and north-star. On top of it, these decisions are protected and only committed if platform can absorb them; knowing platform stability in itself is bounded by organizational capability (both technical and human). 

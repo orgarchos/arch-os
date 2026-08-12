@@ -51,7 +51,7 @@ Alignment Architecture governs *what and how* signal and commitments move betwee
 **Definition and rationale:**
 Alignment architecture treats cross-functional alignment as a design discipline; applying the same principles that platform engineering applies to service interfaces; here applies to communication between Sales, Customer Success, Marketing, Product, Development, and other teams. 
 
-It clarifies Expectation Contracts, Decision Pathways and Interction Modes to avoid for ad-hoc meetings, misalignment, random escalation calls, culture rupture and team friction.
+It clarifies Expectation Contracts, Decision Pathways and Interaction Modes to avoid for ad-hoc meetings, misalignment, random escalation calls, culture rupture and team friction.
 
 Most cross-functional conflict is not a values disagreement; its an interface failure; each behaving reasonably against an incompatible and unwritten contract on what the other owes them. 
 

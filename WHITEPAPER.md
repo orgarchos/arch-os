@@ -114,16 +114,16 @@ An organization's capacity signature consists of five indices:
     > Suggested calculation: `on-call shift calls weighted by after hours vs business hours and time to resolve.`
 
 - **Technical Debt Load:** measures how much of current capacity is consumed servicing debt rather than planned value. Include Root Cause Analysis and post mortem and action item implementation (originating from on-calls, tickets or other sources). 
-    > Suggested calculation: `percent of time spent last cycle over unplanned / remidiation work vs planned roadmap work; evaluate trends`
+    > Suggested calculation: `percent of time spent last cycle over unplanned / remediation work vs planned roadmap work; evaluate trends`
 
-- **Performance Elasticity:** measure how much additional load the platform can absorb before user-facing degradation. How can Pre-sales / Sales handover provide this data to engineering early on "before committment or onboarding" to understand the system scaling needs.
+- **Performance Elasticity:** measure how much additional load the platform can absorb before user-facing degradation. How can Pre-sales / Sales handover provide this data to engineering early on "before commitment or onboarding" to understand the system scaling needs.
     > Suggested calculation: `Performance benchmarks, observability metrics around watermarks, current peak utilization and the last validated capacity ceiling (load test or observed incident threshold)`
 
 ### [H] Horizon Management
 **It answers the question -** Will this be delivered to customers now, next or later; and why?
 
 **Definition and rationale:**
-Keeps strategy a living system rather than an annual document, by explicitly scoring and sequencing initiatives across three time horizons; present reality, near bets and long bets. The intent is to clarify the target horizons in consideration with the teams capacity signature. With the succussful engagement on the three pillars - alignment, rhythmic workflows and capacity signature, founders should be well-equipped to make decisions around these three horizons items. For instance, some capacity needs to be reserved for long bets; even though the return on investment might not be quick.
+Keeps strategy a living system rather than an annual document, by explicitly scoring and sequencing initiatives across three time horizons; present reality, near bets and long bets. The intent is to clarify the target horizons in consideration with the teams capacity signature. With the successful engagement on the three pillars - alignment, rhythmic workflows and capacity signature, founders should be well-equipped to make decisions around these three horizons items. For instance, some capacity needs to be reserved for long bets; even though the return on investment might not be quick.
 
 **Horizon model:**
 - Horizon 1 (Present Reality) 
@@ -133,7 +133,7 @@ Keeps strategy a living system rather than an annual document, by explicitly sco
 **Core components:**
 
 - **Horizon Scanning:** 
-    - _Standing Input Feed:_ a standing input feed from customer signal, competitive movement and platform architecture reviews, kept separate from roadmap backlog so long-horizon signals arent drowned out by short term requests.
+    - _Standing Input Feed:_ a standing input feed from customer signal, competitive movement and platform architecture reviews, kept separate from roadmap backlog so long-horizon signals aren't drowned out by short term requests.
     - _H1 foundational analysis for H2 / H3:_ A breakdown of H2 and H3 items to evaluate their sizing, business value and any of these items might require H1 activity for readiness; so as to not block H3 entirely if deferred.
 - **Prioritization:** initiatives are scored and arbitrated from a business value perspective given the entire context around capacity signature, ICP ranking of initiative and business value, architectural risk, customer impact (renewal, signals), etc.
 - **Feasibility:** every Horizon 2 / Horizon 3 candidate is checked against the current Capacity Intelligence dashboard to allow for a confident roadmap execution
@@ -142,7 +142,7 @@ Keeps strategy a living system rather than an annual document, by explicitly sco
 
 ## 4. ARCH Pods
 
-ARCH Pods provide a safe, structured way to experiment with AI; testing ideas grounded in real signal and built on shared foundations, reuses what's already built and eans its way to production instead of "skipping the line". Could also leverage Arch Pods to automate 
+ARCH Pods provide a safe, structured way to experiment with AI; testing ideas grounded in real signal and built on shared foundations, reuses what's already built and earns its way to production instead of "skipping the line". Could also leverage Arch Pods to automate 
 
 **What ARCH Pods are:**
 - A small rotating team (2-4 people); multi-disciplinary, systems thinking group that behaves like a platform team. Measured by what they prevent, not by what they ship.
@@ -157,7 +157,7 @@ ARCH Pods provide a safe, structured way to experiment with AI; testing ideas gr
 - Without them, you get two bad outcomes: no one experiments with AI (adoption is low) OR everyone experiments with AI losing on the company's product core differentiator, token usage and guardrails.
 - ARCH Pods are middle path - a safe place to try things fast with checks before anything reaches production.
 
-**Sytems thinking, not a feature factory**
+**Systems thinking, not a feature factory**
 - Goal to build small, prototypes to answer "is this worth doing"; leveraging ideas yet maintaining the maturity of released features
 - Keeps experimentation cheap and reversible.
 

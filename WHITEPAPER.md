@@ -99,7 +99,7 @@ Designs the cadence an organization runs on as deliberately, rather than letting
 **It answers the question -** Can we actually do this without breaking something else.
 
 **Definition and rationale:**
-Capacity is the organization's actual constraint, but its usually invisible until its impactful. This could result into an on-call engineer burn out, a system failure due to overload that was not modeled, tech debt piling up contributing to system stability, team silently under delivers cause its real workload was never counted. Capacity Intelligence provides visibility to cognitive loads of teams and system loads from a technical standpoint so they are taken into account during arbitration, committments and decision making.
+Capacity is the organization's actual constraint, but it's usually invisible until its impactful. This could result into an on-call engineer burn out, a system failure due to overload that was not modeled, tech debt piling up contributing to system stability, team silently under delivers cause its real workload was never counted. Capacity Intelligence provides visibility to cognitive loads of teams and system loads from a technical standpoint so they are taken into account during arbitration, commitments and decision making.
 
 **Core components:**
 An organization's capacity signature consists of five indices:
